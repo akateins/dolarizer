@@ -1,0 +1,14 @@
+[
+	{
+		"host"      : "api.dolarizer.com",
+		"basePath"  : ""
+	},
+	{
+		"host"      : "semcel.net",
+		"basePath"  : "/flavio/dolarizer"
+	},
+	{
+		"host"      : "raw.githubusercontent.com",
+		"basePath"  : "/akateins/dolarizer/master"
+	}
+]
