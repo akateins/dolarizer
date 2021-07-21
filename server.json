@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"host": "api.dolarizer.com",
+		"base_path": "",
+		"active": true,
+		"sort": 1
+	},
+	{
+		"id": 2,
+		"host": "semcel.net",
+		"base_path": "/flavio/dolarizer",
+		"active": true,
+		"sort": 2
+	},
+	{
+		"id": 3,
+		"host": "raw.githubusercontent.com",
+		"base_path": "/akateins/dolarizer/master",
+		"active": true,
+		"sort": 1
+	}
+]
