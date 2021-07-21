@@ -1,12 +1,5 @@
 [
 	{
-		"id": 1,
-		"host": "api.dolarizer.com",
-		"base_path": "",
-		"active": true,
-		"sort": 1
-	},
-	{
 		"id": 2,
 		"host": "semcel.net",
 		"base_path": "/flavio/dolarizer",
